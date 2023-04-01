@@ -1,0 +1,18 @@
+.button_container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 20px 0px 32px 0px;
+}
+.pagesHeading{
+    width: 10%;
+}
+.slNo{
+    font-weight: 700;
+    font-size: 20px;
+}
+.name{
+    font-weight: 400;
+    font-size: 20px;
+}

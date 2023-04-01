@@ -1,0 +1,51 @@
+.hierarchy_parent{
+    display: flex;
+    justify-content: center;
+    width: 260px;
+    border-radius: 20px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 8px rgba(0, 2, 71, 0.1);
+height: 40px;
+}
+
+.hierarchy_descend{
+    color: #000;
+    width: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hierarchy_container{
+    width: 260px;
+    display: flex;
+    align-items: center;
+    padding: 3px 0px;
+
+}
+
+.hierarchy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    height: 36px;
+    font-weight: 590;
+    transition: all 0.3s ease-in-out,
+
+}
+
+.hierarchy_ascend{
+    color: #000;
+    width: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
